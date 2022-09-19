@@ -9,7 +9,9 @@
 What we can consider in this scenario is responsive web design. This is how we can use HTML and CSS to scale the web pages to make them look good across different devices with different screen sizes.
 
 We can utilize a viewport element in the HTML file:
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  ```
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  ```
 
 This allows the web page to fit the screen size width of the device and sets the initial zoom level when the web page loads.
 
